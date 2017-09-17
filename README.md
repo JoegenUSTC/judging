@@ -1,2 +1,0 @@
-# judging
-software engineering
